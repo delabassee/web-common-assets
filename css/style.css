@@ -1,8 +1,7 @@
 ---
 ---
 
-//@import "{{ site.theme }}";
-@import "jekyll-theme-architect";
+@import "{{ site.theme }}";
 
 a {
   font-weight: bold;
@@ -37,7 +36,6 @@ header {
 }
 
 header a.button {
-  //background: transparent url(../images/logo.png) 0 0 no-repeat;
   background: transparent url(../images/logo.png) 0 0 no-repeat;
 }
 
@@ -130,7 +128,6 @@ header {
   padding-top: 40px;
   padding-bottom: 30px;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
-  //background: url(../images/ddheader-bg.jpg) 0 0 repeat-x;
   background: url(../images/ddheader-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #E0E0E0;  
 }
