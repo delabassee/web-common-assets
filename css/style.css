@@ -2,7 +2,7 @@
 ---
 
 //@import "{{ site.theme }}";
-@import 'jekyll-theme-architect';
+@import "jekyll-theme-architect";
 
 a {
   font-weight: bold;
