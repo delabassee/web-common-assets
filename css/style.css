@@ -37,7 +37,7 @@ header {
 
 header a.button {
   //background: transparent url(../images/logo.png) 0 0 no-repeat;
-  background: transparent url(shared/images/logo.png) 0 0 no-repeat;
+  background: transparent url(../images/logo.png) 0 0 no-repeat;
 }
 
 
@@ -130,6 +130,6 @@ header {
   padding-bottom: 30px;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   //background: url(../images/ddheader-bg.jpg) 0 0 repeat-x;
-  background: url(shared/images/ddheader-bg.jpg) 0 0 repeat-x;
+  background: url(../images/ddheader-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #E0E0E0;  
 }
